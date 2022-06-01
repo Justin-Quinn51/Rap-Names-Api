@@ -8,17 +8,17 @@ app.use(cors())
 const rappers = {
     '21 savage':{
         'age': 29,
-        'birthname': 'Sheyaa Bin Abraham-Joseph',
+        'birthName': 'Sheyaa Bin Abraham-Joseph',
         'birthLocation': 'London, England'
     },
     'chance the rapper':{
         'age': 29,
-        'birthname': 'Chancelor Bennett',
+        'birthName': 'Chancelor Bennett',
         'birthLocation': 'Chicago, Illinois'
     },
     'dylan':{
         'age': 29,
-        'birthname': 'Dylan',
+        'birthName': 'Dylan',
         'birthLocation': 'Dylan'
     }
 }
